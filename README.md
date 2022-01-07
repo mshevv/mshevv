@@ -1,4 +1,15 @@
 ### Hi there 👋
+My name is Maria, it is nice to meet you! :) 
+
+I am a freshman in Web-development
+
+🌱 I’m currently learning HTML and CSS through Coursera courses 
+
+⚡ Here is my "portfolio" website (very much WIP): https://mshevv.github.io/learninghtml/helloworld.html
+
+😄 Open to any suggestions, tips and ideas for exercising
+
+Have a nice day!
 
 <!--
 **mshevv/mshevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
